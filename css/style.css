@@ -764,7 +764,7 @@ h1, h2, h3, h4, h5,
         padding-top: 30px !important;
         padding-bottom: 30px !important; } }
 
-/* Blocks */
+/* Blocks changes by VD */
 .site-section-cover {
   position: relative; }
   .site-section-cover, .site-section-cover .container {
@@ -772,7 +772,7 @@ h1, h2, h3, h4, h5,
     z-index: 2; }
   .site-section-cover, .site-section-cover .container > .row {
     height: calc(100vh - 196px);
-    min-height: 577px; }
+    min-height: 700px; }
     @media (max-width: 991.98px) {
       .site-section-cover, .site-section-cover .container > .row {
         height: calc(70vh - 196px);
